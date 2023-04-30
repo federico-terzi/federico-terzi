@@ -1,4 +1,4 @@
-Hi there!
+Hi there! 👋
 
 I'm [Federico](https://federicoterzi.com/), a passionate Software Engineer who loves building great products.
 
