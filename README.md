@@ -8,7 +8,7 @@ I also have a Master's degree in Computer Engineering.
 
 I’m **product-oriented**. Despite loving the technical side, I also deeply care about user experiences and design.
 
-I love creating **side-projects**, and some of them are used by tens of thousands of daily active users. [Espanso](https://espanso.org) is the most popular one, and you can find the others [here](https://federicoterzi.com/projects).
+I'm currently working on [Borumi](https://borumi.com), a video editor that allows creators to produce content in a fraction of the time. I'm also the creator of [Espanso](https://espanso.org), an open-source text expander used by thousands of people every day. You can find the others [here](https://federicoterzi.com/projects).
 
 If you like technical topics, you might also enjoy my [Blog](https://federicoterzi.com/blog) and [YouTube channel](https://youtube.com/c/FedericoTerzi).
 
